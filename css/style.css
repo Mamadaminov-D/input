@@ -1,0 +1,133 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.big {
+  margin-top: 80px;
+}
+
+.user-page {
+  border: 1px solid black ;
+  background-color: #FFD500;
+  border-radius: 15px 0 0 15px;
+}
+
+.user-img {
+  padding-top: 80px;
+}
+
+.title {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #383838;
+  padding: 57px 53px 10px 53px;
+}
+
+.txt {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 14px;
+  align-items: center;
+  text-align: center;
+  color: #383838;
+  width: 175px;
+  padding: 0 53px 10px 53px;
+
+}
+
+.next {
+  padding-bottom: 60px;
+}
+
+.inputs {
+  border: 1px solid black;
+  padding: 40px 40px;
+}
+
+.name label {
+  margin-right: 27px;
+}
+
+.name input {
+  height: 25px;
+}
+
+
+.date {
+  margin-top: 15px;
+}
+
+.date label {
+  margin-right: 29px;
+}
+
+.date input {
+  width: 175px;
+  height: 28px;
+}
+
+.mail {
+  margin-top: 15px;
+
+}
+
+.mail input {
+  height: 25px;
+
+}
+
+.mail label {
+  margin-right: 27px;
+}
+
+.mobile {
+  margin-top: 15px;
+}
+
+.mobile input {
+  height: 25px;
+
+}
+
+.mobile label {
+  margin-right: 19px;
+}
+
+.id {
+  margin-top: 15px;
+}
+
+.id input {
+
+  height: 25px;
+
+}
+
+.id label {
+  padding-right: 25px;
+  margin-right: 19px;
+}
+
+
+/* .form-actions {
+  margin-top: 10px;
+  width: 350px;
+  text-align: start;
+}
+
+.form-actions label {
+  margin-left: 40px;
+  margin-right: 25px;
+  width: 40px;
+}
+
+.form-actions input {
+  align-items: center ;
+}
+
+ */
+
